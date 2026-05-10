@@ -1,0 +1,80 @@
+# אור חב"ד — Generative Engine Optimization Map
+
+> A modern Chabad Hasidic community website with a spiritual and welcoming atmosphere. The site features daily Jewish learning content, donation capabilities for a nonprofit organization, and a paid membership model at 41.90 NIS per month. The vision combines traditional Chabad values with a contemporary digital experience to engage and grow the community online.
+
+---
+
+## Pages
+
+### בית
+https://example.com
+ברוכים הבאים לקהילת אור חב&quot;ד — מקום שבו לימוד יומי, חיבור רוחני וחיי תורה פוגשים את העולם הדיגיטלי המודרני. הצטרפו אלינו עוד היום!
+
+### לימוד יומי
+https://example.com/daily-learning
+לימוד יומי מעמיק ומעורר השראה מעולם החסידות והתורה. תכנים חדשים כל יום שיחזקו את הקשר שלכם ליהדות ויצמיחו את הנשמה. התחילו ללמוד עכשיו!
+
+### תמכו במשימה
+https://example.com/donate
+תרומה לעמותת חב&quot;ד היא השקעה בעתיד הקהילה היהודית. כל שקל שתתרמו מחזק לימוד תורה, פעילות קהילתית וחיבור יהודי לדורות הבאים. תרמו עכשיו!
+
+### אודות והצטרפות
+https://example.com/about
+גלו את הסיפור מאחורי קהילת אור חב&quot;ד, הצטרפו כחברים ב־41.90 ₪ בלבד לחודש וקבלו גישה מלאה לתכנים, לקהילה ולחיים יהודיים עשירים ומשמעותיים. הצטרפו היום!
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://example.com/daily-learning
+- Endpoint: https://example.com/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text, required)
+  - `email` (email, required)
+  - `phone` (tel)
+  - `subject` (text)
+  - `message` (textarea, required)
+  - `privacy_consent` (checkbox, required)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אור חב"ד
+A modern Chabad Hasidic community website with a spiritual and welcoming atmosphere. The site features daily Jewish learning content, donation capabilities for a nonprofit organization, and a paid membership model at 41.90 NIS per month. The vision combines traditional Chabad values with a contemporary digital experience to engage and grow the community online.
+
+## Target Audience
+- חסידי חב"ד, אנשים המעוניינים להצטרף לקהילה ולתרום
+- חסידי חב"ד
+- קהילה דתית יהודית
+- פילנתרופים יהודים תורמים
+
+## Industry
+דת וקהילה יהודית
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
