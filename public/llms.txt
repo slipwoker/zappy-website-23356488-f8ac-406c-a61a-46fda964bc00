@@ -7,33 +7,33 @@
 ## Pages
 
 ### בית
-https://example.com
+https://orchabad.zappy5.app
 ברוכים הבאים לקהילת אור חב&quot;ד — מקום שבו לימוד יומי, חיבור רוחני וחיי תורה פוגשים את העולם הדיגיטלי המודרני. הצטרפו אלינו עוד היום!
 
 ### לימוד יומי
-https://example.com/daily-learning
+https://orchabad.zappy5.app/daily-learning
 לימוד יומי מעמיק ומעורר השראה מעולם החסידות והתורה. תכנים חדשים כל יום שיחזקו את הקשר שלכם ליהדות ויצמיחו את הנשמה. התחילו ללמוד עכשיו!
 
 ### תמכו במשימה
-https://example.com/donate
+https://orchabad.zappy5.app/donate
 תרומה לעמותת חב&quot;ד היא השקעה בעתיד הקהילה היהודית. כל שקל שתתרמו מחזק לימוד תורה, פעילות קהילתית וחיבור יהודי לדורות הבאים. תרמו עכשיו!
 
 ### אודות והצטרפות
-https://example.com/about
+https://orchabad.zappy5.app/about
 גלו את הסיפור מאחורי קהילת אור חב&quot;ד, הצטרפו כחברים ב־41.90 ₪ בלבד לחודש וקבלו גישה מלאה לתכנים, לקהילה ולחיים יהודיים עשירים ומשמעותיים. הצטרפו היום!
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://example.com/privacy
+https://orchabad.zappy5.app/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://example.com/terms
+https://orchabad.zappy5.app/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://example.com/accessibility
+https://orchabad.zappy5.app/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -46,8 +46,8 @@ Information about WCAG compliance and accessibility features.
 - Address: רחוב חיטה 10, בת חפר, ישראל, ישראל
 
 ### Contact form
-- URL: https://example.com/daily-learning
-- Endpoint: https://example.com/api/email/contact-form
+- URL: https://orchabad.zappy5.app/daily-learning
+- Endpoint: https://orchabad.zappy5.app/api/email/contact-form
 - Method: POST
 - Content-Type: application/json
 - Fields:
@@ -78,6 +78,6 @@ A modern Chabad Hasidic community website with a spiritual and welcoming atmosph
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://example.com/sitemap.xml
-- Robots: https://example.com/robots.txt
-- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Sitemap (XML): https://orchabad.zappy5.app/sitemap.xml
+- Robots: https://orchabad.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://orchabad.zappy5.app/llms-full.txt
