@@ -359,11 +359,11 @@ Description: ברוכים הבאים לקהילת אור חב&quot;ד — מקו
 ### צרו קשר
 
 
-- [business_email]
+- leviavni@gmail.com
 
-- [business_phone]
+- 098788156
 
-- [business_address]
+- רחוב חיטה 10, בת חפר, ישראל, ישראל
 
 
 
@@ -1009,11 +1009,11 @@ Description: לימוד יומי מעמיק ומעורר השראה מעולם �
 ### צרו קשר
 
 
-- [business_email]
+- leviavni@gmail.com
 
-- [business_phone]
+- 098788156
 
-- [business_address]
+- רחוב חיטה 10, בת חפר, ישראל, ישראל
 
 
 
@@ -1538,11 +1538,11 @@ Description: תרומה לעמותת חב&quot;ד היא השקעה בעתיד �
 ### צרו קשר
 
 
-- [business_email]
+- leviavni@gmail.com
 
-- [business_phone]
+- 098788156
 
-- [business_address]
+- רחוב חיטה 10, בת חפר, ישראל, ישראל
 
 
 
@@ -2034,11 +2034,11 @@ Description: גלו את הסיפור מאחורי קהילת אור חב&quot;�
 ### צרו קשר
 
 
-- [business_email]
+- leviavni@gmail.com
 
-- [business_phone]
+- 098788156
 
-- [business_address]
+- רחוב חיטה 10, בת חפר, ישראל, ישראל
 
 
 
@@ -2234,11 +2234,11 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 
 - חברה: אור חב"ד
 
-- אימייל: [business_email]
+- אימייל: leviavni@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 098788156
 
-- כתובת: [business_address]
+- כתובת: רחוב חיטה 10, בת חפר, ישראל, ישראל
 
 
 
@@ -2293,11 +2293,11 @@ Description: מדיניות הפרטיות שלנו - כיצד אנו אוספי
 ### צרו קשר
 
 
-- [business_email]
+- leviavni@gmail.com
 
-- [business_phone]
+- 098788156
 
-- [business_address]
+- רחוב חיטה 10, בת חפר, ישראל, ישראל
 
 
 
@@ -2501,9 +2501,9 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 
 - חברה: אור חב"ד
 
-- אימייל: [business_email]
+- אימייל: leviavni@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 098788156
 
 
 
@@ -2561,11 +2561,11 @@ Description: הצהרת הנגישות שלנו - מחויבותנו לנגיש�
 ### צרו קשר
 
 
-- [business_email]
+- leviavni@gmail.com
 
-- [business_phone]
+- 098788156
 
-- [business_address]
+- רחוב חיטה 10, בת חפר, ישראל, ישראל
 
 
 
@@ -2792,11 +2792,11 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 
 - חברה: אור חב"ד
 
-- אימייל: [business_email]
+- אימייל: leviavni@gmail.com
 
-- טלפון: [business_phone]
+- טלפון: 098788156
 
-- כתובת: [business_address]
+- כתובת: רחוב חיטה 10, בת חפר, ישראל, ישראל
 
 
 
@@ -2848,11 +2848,11 @@ Description: תנאי השימוש באתר - הזכויות והחובות של
 ### צרו קשר
 
 
-- [business_email]
+- leviavni@gmail.com
 
-- [business_phone]
+- 098788156
 
-- [business_address]
+- רחוב חיטה 10, בת חפר, ישראל, ישראל
 
 
 

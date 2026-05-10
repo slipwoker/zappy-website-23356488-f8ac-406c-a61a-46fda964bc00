@@ -40,7 +40,10 @@ Information about WCAG compliance and accessibility features.
 
 ## How to Contact Us
 
-- (No contact details configured yet.)
+- Email: leviavni@gmail.com
+- Phone: 098788156
+- Phone (tel): tel:098788156
+- Address: רחוב חיטה 10, בת חפר, ישראל, ישראל
 
 ### Contact form
 - URL: https://example.com/daily-learning
